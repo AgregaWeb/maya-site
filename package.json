@@ -1,0 +1,18 @@
+{
+  "name": "maya-site",
+  "version": "1.0.0",
+  "description": "``` maya-site/ ├── index.html          ← Página principal ├── css/ │   └── style.css       ← Todos os estilos ├── js/ │   └── main.js         ← Animações, menu, FAQ accordion ├── assets/             ← Coloque aqui as fotos reais │   ├── hero-foto.jpg │   ├── equipe.jpg │   └── ... └── README.md ```",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.0.10"
+  }
+}
