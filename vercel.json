@@ -1,6 +1,5 @@
 {
-  "buildCommand": null,
+  "buildCommand": "",
   "outputDirectory": ".",
-  "devCommand": "vite",
-  "installCommand": "npm install"
+  "installCommand": ""
 }
